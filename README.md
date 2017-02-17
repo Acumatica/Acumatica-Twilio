@@ -36,7 +36,7 @@ Quick Start
 4. Save the changes to the page.
 ![Twilio Integration](/_ReadMeImages/TW101000.png)
 
-#### Usage
+### Usage
 
 To use this feature:
 
