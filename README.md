@@ -45,9 +45,11 @@ To use this feature:
    * Actions -> Send SMS Notification
    * Actions -> Send Call Notification
 ![Advanced Notification Options](/_ReadMeImages/AR301000.png)
-3. Notifications can be scheduled for released AR Invoices having balance due from Finance -> Accounts Receivable -> Processes -> Daily -> Send SMS/Call Notification (TW501000)
+3. SMS/Call Notification uses Billing Address -> Contact Information -> Phone1
+![Advanced Notification Options](/_ReadMeImages/AR301000Phone1.png)
+4. Notifications can be scheduled for released AR Invoices having balance due from Finance -> Accounts Receivable -> Processes -> Daily -> Send SMS/Call Notification (TW501000)
 ![Advanced Notification Options](/_ReadMeImages/TW501000.png)
-4. Once a notification has been sent, a new activity is create as well. 
+5. Once a notification has been sent, a new activity is create as well. 
 ![Advanced Notification Options](/_ReadMeImages/AR301000Activities.png)
 
 Known Issues
